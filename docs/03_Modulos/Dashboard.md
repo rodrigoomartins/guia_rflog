@@ -11,7 +11,7 @@ O Dashboard e a **pagina inicial** do RFLog. Ele oferece uma visao geral do nego
 
 ## Captura de Tela
 
-![Dashboard](../../assets/screenshots/02_dashboard.png)
+![Dashboard](../assets/screenshots/02_dashboard.png)
 
 ## O que o Dashboard Exibe
 

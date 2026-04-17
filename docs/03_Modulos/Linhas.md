@@ -11,7 +11,7 @@ As **Linhas** sao sub-classificacoes de produtos dentro de um grupo (ex: "SAVAGE
 
 ## Captura de Tela
 
-![Linhas](../../assets/screenshots/08_linhas.png)
+![Linhas](../assets/screenshots/08_linhas.png)
 
 ## Como Acessar
 

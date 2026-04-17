@@ -13,7 +13,7 @@ O **Recebimento de NF-e** permite integrar e receber Notas Fiscais eletronicas a
 
 ## Captura de Tela
 
-![Recebimento de NF-e](../../assets/screenshots/15_recebimento_nfe.png)
+![Recebimento de NF-e](../assets/screenshots/15_recebimento_nfe.png)
 
 ## Como Acessar
 

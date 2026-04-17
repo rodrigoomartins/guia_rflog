@@ -11,7 +11,7 @@ A secao **Estoque** mostra todos os produtos que estao em algum estabelecimento 
 
 ## Captura de Tela
 
-![Estoque](../../assets/screenshots/20_estoque.png)
+![Estoque](../assets/screenshots/20_estoque.png)
 
 ## Como Acessar
 

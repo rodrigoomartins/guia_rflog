@@ -15,7 +15,7 @@ Menu lateral: **Produtos** > **Produto**
 
 ## Captura de Tela
 
-![Lista de Produtos](../../assets/screenshots/03_produtos.png)
+![Lista de Produtos](../assets/screenshots/03_produtos.png)
 
 ## O que Voce Ve
 

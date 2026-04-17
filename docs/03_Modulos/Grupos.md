@@ -11,7 +11,7 @@ Os **Grupos** sao classificacoes amplas de produtos (ex: "ELETRODOMESTICOS", "VE
 
 ## Captura de Tela
 
-![Grupos](../../assets/screenshots/07_grupos.png)
+![Grupos](../assets/screenshots/07_grupos.png)
 
 ## Como Acessar
 

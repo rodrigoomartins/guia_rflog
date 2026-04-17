@@ -11,7 +11,7 @@ As **Colecoes** sao classificacoes temporais/sazonais de produtos (ex: "2024", "
 
 ## Captura de Tela
 
-![Colecoes](../../assets/screenshots/06_colecoes.png)
+![Colecoes](../assets/screenshots/06_colecoes.png)
 
 ## Como Acessar
 

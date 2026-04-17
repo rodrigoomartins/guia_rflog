@@ -11,7 +11,7 @@ A secao **Relatorio de Permanencia** mostra a "idade" dos produtos em determinad
 
 ## Captura de Tela
 
-![Relatorio de Permanencia](../../assets/screenshots/23_relatorio_permanencia.png)
+![Relatorio de Permanencia](../assets/screenshots/23_relatorio_permanencia.png)
 
 ## Como Acessar
 

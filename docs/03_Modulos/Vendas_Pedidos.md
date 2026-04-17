@@ -11,7 +11,7 @@ Os **Pedidos de Venda** permitem criar pedidos que posteriormente sao transforma
 
 ## Captura de Tela
 
-![Pedidos de Venda](../../assets/screenshots/17_vendas_pedidos.png)
+![Pedidos de Venda](../assets/screenshots/17_vendas_pedidos.png)
 
 ## Como Acessar
 

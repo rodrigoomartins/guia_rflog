@@ -25,7 +25,6 @@ theme:
     - content.code.copy
     - content.action.edit
   logo: assets/logo.png
-  favicon: assets/favicon.png
 
 # Extensões Markdown
 markdown_extensions:

@@ -13,7 +13,7 @@ O nome vem do fato de que muitos clientes sao **fornecedores de grandes magazine
 
 ## Captura de Tela
 
-![Magazines - Lista](../../assets/screenshots/18_magazines_lista.png)
+![Magazines - Lista](../assets/screenshots/18_magazines_lista.png)
 
 ## Como Acessar
 

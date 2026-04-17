@@ -11,7 +11,7 @@ A secao **Usuarios** permite visualizar e gerenciar os usuarios do sistema com s
 
 ## Captura de Tela
 
-![Usuarios - Lista](../../assets/screenshots/27_usuarios_lista.png)
+![Usuarios - Lista](../assets/screenshots/27_usuarios_lista.png)
 
 ## Como Acessar
 
@@ -47,7 +47,7 @@ Gestao de usuarios do sistema com cargos e permissoes. Os botoes de acao em cada
 - [Usuarios Cadastro](Usuarios_Cadastro.md) — Formulario de criacao/edicao de usuarios
 - [Estabelecimentos Lista](Estabelecimentos_Lista.md) — Gestao de estabelecimentos
 - [Sincronia ERP](Sincronia_ERP.md) — Sincronizacao de dados com o ERP
-- [Tipos de Usuario](Tipos de Usuario) — Detalhes dos perfis e permissoes
+- [Tipos de Usuario](Tipos_Usuarios.md) — Detalhes dos perfis e permissoes
 
 ---
 *Guia de Usuario RFLog — Votu RFID Solutions*

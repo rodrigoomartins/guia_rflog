@@ -11,7 +11,7 @@ A secao **Usuarios - Cadastro** permite criar novos usuarios com definicao de pe
 
 ## Captura de Tela
 
-![Usuarios - Cadastro](../../assets/screenshots/28_usuarios_cadastro.png)
+![Usuarios - Cadastro](../assets/screenshots/28_usuarios_cadastro.png)
 
 ## Como Acessar
 
@@ -43,7 +43,7 @@ Formulario de criacao de novos usuarios com definicao de permissoes de acesso. S
 ## Veja Tambem
 
 - [Usuarios Lista](Usuarios_Lista.md) — Lista de usuarios cadastrados
-- [Tipos de Usuario](Tipos de Usuario) — Detalhes dos perfis e permissoes
+- [Tipos de Usuario](Tipos_Usuarios.md) — Detalhes dos perfis e permissoes
 - [Estabelecimentos Lista](Estabelecimentos_Lista.md) — Gestao de estabelecimentos
 - [Sincronia ERP](Sincronia_ERP.md) — Sincronizacao de dados com o ERP
 

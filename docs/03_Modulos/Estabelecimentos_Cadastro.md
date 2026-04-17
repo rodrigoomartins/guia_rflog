@@ -11,7 +11,7 @@ A secao **Estabelecimentos - Cadastro** permite criar novos estabelecimentos com
 
 ## Captura de Tela
 
-![Estabelecimentos - Cadastro](../../assets/screenshots/26_estabelecimentos_cadastro.png)
+![Estabelecimentos - Cadastro](../assets/screenshots/26_estabelecimentos_cadastro.png)
 
 ## Como Acessar
 

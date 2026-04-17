@@ -11,7 +11,7 @@ A **Linha do Tempo** e a ferramenta de **rastreabilidade completa** do RFLog. To
 
 ## Captura de Tela
 
-![Linha do Tempo](../../assets/screenshots/04_linha_tempo.png)
+![Linha do Tempo](../assets/screenshots/04_linha_tempo.png)
 
 ## Como Acessar
 

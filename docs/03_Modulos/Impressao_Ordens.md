@@ -11,7 +11,7 @@ As **Ordens de Impressao** permitem controlar e gerenciar lotes de impressao de 
 
 ## Captura de Tela
 
-![Ordens de Impressao](../../assets/screenshots/10_impressao_ordens.png)
+![Ordens de Impressao](../assets/screenshots/10_impressao_ordens.png)
 
 ## Como Acessar
 

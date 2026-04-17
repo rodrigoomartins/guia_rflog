@@ -11,7 +11,7 @@ A **Transferencia Instantanea** permite mover produtos diretamente para o destin
 
 ## Captura de Tela
 
-![Transferencias - Instantanea](../../assets/screenshots/13_transferencias_instantanea.png)
+![Transferencias - Instantanea](../assets/screenshots/13_transferencias_instantanea.png)
 
 ## Como Acessar
 

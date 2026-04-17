@@ -44,7 +44,7 @@ O RFLog possui **4 perfis de usuario**, cada um com permissoes diferentes:
 | **Vendedor** | Usuario de consulta. Consegue visualizar apenas as vendas e pre-vendas feitas para seu proprio usuario. |
 | **Fornecedor** | Usuario restrito. So consegue criar e gerenciar **ordens de impressao** para que sejam impressas por outros usuarios. |
 
-> Para mais detalhes, veja: [Tipos Usuario](Tipos_Usuario)
+> Para mais detalhes, veja: [Tipos de Usuario](03_Modulos/Tipos_Usuarios.md)
 
 ## Tecnologias Envolvidas
 

@@ -11,7 +11,7 @@ data: 2026-04-15
 
 ## Captura de Tela
 
-![Romaneios](../../assets/screenshots/14_romaneios.png)
+![Romaneios](../assets/screenshots/14_romaneios.png)
 
 ## Como Acessar
 

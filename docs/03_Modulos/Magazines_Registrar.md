@@ -11,7 +11,7 @@ Registro de leitura de Magazine. O operador faz a captura de tags RFID e o siste
 
 ## Captura de Tela
 
-![Magazines - Registrar](../../assets/screenshots/19_magazines_registrar.png)
+![Magazines - Registrar](../assets/screenshots/19_magazines_registrar.png)
 
 ## Como Acessar
 

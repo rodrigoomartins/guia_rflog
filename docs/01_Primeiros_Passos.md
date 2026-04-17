@@ -42,7 +42,7 @@ Dependendo do seu perfil de acesso, voce vera botoes e funcionalidades diferente
 | **Vendedor** | Consultar — ver apenas suas vendas e pre-vendas |
 | **Fornecedor** | Imprimir — criar e gerenciar ordens de impressao de etiquetas |
 
-> Para detalhes, consulte: [Tipos Usuario](Tipos_Usuario)
+> Para detalhes, consulte: [Tipos de Usuario](03_Modulos/Tipos_Usuarios.md)
 
 ## Proximos Passos
 

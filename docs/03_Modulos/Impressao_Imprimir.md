@@ -15,7 +15,7 @@ Menu lateral: **Impressao** > **Imprimir**
 
 ## Captura de Tela
 
-![Tela de Impressao Avulsa](../../assets/screenshots/09_impressao_imprimir.png)
+![Tela de Impressao Avulsa](../assets/screenshots/09_impressao_imprimir.png)
 
 ## Como Imprimir uma Etiqueta
 

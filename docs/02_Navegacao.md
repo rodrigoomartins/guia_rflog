@@ -92,7 +92,7 @@ Os botoes nas tabelas seguem um padrao de cores:
 ## Proximos Passos
 
 - Explore o [Dashboard](03_Modulos/Dashboard.md) para entender a visao geral
-- Consulte cada modulo em [03 Modulos](03_Modulos) para aprender funcionalidades especificas
+- Consulte cada modulo em [Produtos](03_Modulos/Produtos.md) para aprender funcionalidades especificas
 - Consulte a [Botoes e Status](04_Referencia/Botoes_e_Status.md) para referencia rapida
 
 ---

@@ -11,7 +11,7 @@ A secao **Sincronia ERP** permite sincronizar dados entre o RFLog e o ERP do cli
 
 ## Captura de Tela
 
-![Sincronia ERP](../../assets/screenshots/24_sincronia_erp.png)
+![Sincronia ERP](../assets/screenshots/24_sincronia_erp.png)
 
 ## Como Acessar
 

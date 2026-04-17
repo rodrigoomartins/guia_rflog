@@ -11,7 +11,7 @@ A secao de **Vendas** registra movimentacoes de saida de produtos, tirando-os do
 
 ## Captura de Tela
 
-![Lista de Vendas](../../assets/screenshots/16_vendas_lista.png)
+![Lista de Vendas](../assets/screenshots/16_vendas_lista.png)
 
 ## Como Acessar
 

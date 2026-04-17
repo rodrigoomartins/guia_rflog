@@ -11,7 +11,7 @@ A tela de **Entrada e Saida** e onde voce cria as movimentacoes de produtos entr
 
 ## Captura de Tela
 
-![Transferencias - Entrada e Saida](../../assets/screenshots/12_transferencias_entrada_saida.png)
+![Transferencias - Entrada e Saida](../assets/screenshots/12_transferencias_entrada_saida.png)
 
 ## Como Acessar
 

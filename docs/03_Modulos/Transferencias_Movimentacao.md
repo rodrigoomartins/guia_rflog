@@ -15,7 +15,7 @@ Menu lateral: **Transferencias** > **Movimentacao**
 
 ## Captura de Tela
 
-![Transferencias - Movimentacao](../../assets/screenshots/11_transferencias_movimentacao.png)
+![Transferencias - Movimentacao](../assets/screenshots/11_transferencias_movimentacao.png)
 
 ## Filtros Disponiveis
 

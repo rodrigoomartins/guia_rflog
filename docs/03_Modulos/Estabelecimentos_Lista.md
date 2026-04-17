@@ -11,7 +11,7 @@ A secao **Estabelecimentos** permite visualizar e gerenciar os estabelecimentos 
 
 ## Captura de Tela
 
-![Estabelecimentos - Lista](../../assets/screenshots/25_estabelecimentos_lista.png)
+![Estabelecimentos - Lista](../assets/screenshots/25_estabelecimentos_lista.png)
 
 ## Como Acessar
 

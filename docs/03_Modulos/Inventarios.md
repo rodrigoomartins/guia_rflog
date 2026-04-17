@@ -11,7 +11,7 @@ A secao **Inventarios** agrupa todos os inventarios realizados no sistema. O inv
 
 ## Captura de Tela
 
-![Lista de Inventarios](../../assets/screenshots/21_inventarios_lista.png)
+![Lista de Inventarios](../assets/screenshots/21_inventarios_lista.png)
 
 ## Como e Feito o Inventario
 
@@ -83,7 +83,7 @@ A tela principal mostra todos os inventarios com opcoes de filtro e acoes.
 
 ## Veja Tambem
 
-- [Inventarios](Inventarios.md#registrar-inventario) — Registrar inventario via web
+- [Inventarios](#registrar-inventario-web) — Registrar inventario via web
 - [Estoque](Estoque.md) — Consulta de estoque (resultado dos inventarios)
 - [Transferencias Movimentacao](Transferencias_Movimentacao.md) — Outra operacao que movimenta estoque
 - [Sincronia ERP](Sincronia_ERP.md) — Sincronizacao com ERP

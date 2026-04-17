@@ -11,7 +11,7 @@ A secao **Categorias** lista as categorias de produtos cadastradas no sistema. A
 
 ## Captura de Tela
 
-![Categorias](../../assets/screenshots/05_categorias.png)
+![Categorias](../assets/screenshots/05_categorias.png)
 
 ## Como Acessar
 
