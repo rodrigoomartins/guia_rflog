@@ -1,0 +1,128 @@
+site_name: Guia de Usuário RFLog
+site_description: Documentação completa do sistema RFLog - Votu RFID Solutions
+site_author: Votu RFID Solutions
+site_url: https://guia-rflog.voturfid.com.br
+
+# Tema
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+
+# Extensões Markdown
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# Plugins
+plugins:
+  - search:
+      lang: pt
+
+# Navegação
+nav:
+  - Início: index.md
+  - Introdução: 00_Introducao.md
+  - Primeiros Passos: 01_Primeiros_Passos.md
+  - Navegação: 02_Navegacao.md
+  - Referência Rápida: 00_Referencia_Rapida.md
+  - Módulos:
+    - Dashboard: 03_Modulos/Dashboard.md
+    - Produtos:
+      - Visão Geral: 03_Modulos/Produtos.md
+      - Linha do Tempo: 03_Modulos/Linha_do_Tempo.md
+      - Categorias: 03_Modulos/Categorias.md
+      - Coleções: 03_Modulos/Colecoes.md
+      - Grupos: 03_Modulos/Grupos.md
+      - Linhas: 03_Modulos/Linhas.md
+    - Impressão:
+      - Imprimir: 03_Modulos/Impressao_Imprimir.md
+      - Ordens: 03_Modulos/Impressao_Ordens.md
+    - Transferências:
+      - Movimentação: 03_Modulos/Transferencias_Movimentacao.md
+      - Entrada e Saída: 03_Modulos/Transferencias_Entrada_Saida.md
+      - Instantânea: 03_Modulos/Transferencias_Instantanea.md
+      - Romaneios: 03_Modulos/Romaneios.md
+      - Recebimento NF-e: 03_Modulos/Recebimento_NFe.md
+    - Inventários:
+      - Visão Geral: 03_Modulos/Inventarios.md
+    - Estoque:
+      - Visão Geral: 03_Modulos/Estoque.md
+    - Vendas:
+      - Lista de Vendas: 03_Modulos/Vendas_Lista.md
+      - Pedidos: 03_Modulos/Vendas_Pedidos.md
+    - Magazines:
+      - Lista: 03_Modulos/Magazines_Lista.md
+      - Registrar: 03_Modulos/Magazines_Registrar.md
+    - Relatório de Permanência:
+      - Visão Geral: 03_Modulos/Relatorio_Permanencia.md
+    - Sincronia ERP:
+      - Visão Geral: 03_Modulos/Sincronia_ERP.md
+    - Estabelecimentos:
+      - Lista: 03_Modulos/Estabelecimentos_Lista.md
+      - Cadastro: 03_Modulos/Estabelecimentos_Cadastro.md
+    - Usuários:
+      - Lista: 03_Modulos/Usuarios_Lista.md
+      - Cadastro: 03_Modulos/Usuarios_Cadastro.md
+      - Tipos de Usuário: 03_Modulos/Tipos_Usuarios.md
+  - Referência:
+    - Botões e Status: 04_Referencia/Botoes_e_Status.md
+    - Glossário: 04_Referencia/Glossario.md
+    - Fluxos de Trabalho: 04_Referencia/Fluxos_Trabalho.md
+    - FAQ: 04_Referencia/FAQ.md
+    - Troubleshooting: 04_Referencia/Troubleshooting.md
+
+# Rodapé
+copyright: Copyright &copy; 2026 Votu RFID Solutions - Todos os direitos reservados
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/voturfid
+      name: GitHub
+    - icon: fontawesome/solid/globe
+      link: https://voturfid.com.br
+      name: Site
+  generator: false
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/extra.js
